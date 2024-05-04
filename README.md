@@ -1,5 +1,6 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=OtakuCoder00&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
-
+[![wakatime](https://wakatime.com/badge/user/0a540c06-5d18-4780-9696-5ba7aea5d0dc.svg)](https://wakatime.com/@0a540c06-5d18-4780-9696-5ba7aea5d0dc)
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a href="#">@OtakuCoder00</a></b>

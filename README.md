@@ -69,7 +69,7 @@
 <hr/>
 <br/>
 
-  ![OtakuCoder00's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtakuCoder00&show_icons=true&theme=react)
+  ![OtakuCoder00's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtakuCoder00&show_icons=truecount_private=true&theme=react)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtakuCoder00&langs_count=8&layout=compact&theme=react)](https://github.com/OtakuCoder00/github-readme-stats)
 
 
